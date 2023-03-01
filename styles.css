@@ -1,0 +1,49 @@
+body {
+    background-color: #150000;
+}
+hr {
+    border-color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    width: 10%;
+    border-width: 5px;
+}
+h1{
+    color: rgb(150, 69, 69);
+}
+h1:hover{
+    color: gold;
+}
+h3{
+    color: rgb(196, 103, 103);
+} 
+p{
+    color:rgb(150, 69, 69);
+}
+td{
+    color:rgb(150, 69, 69);
+}
+th{
+    color:rgb(150, 69, 69);
+}
+li{
+    color:rgb(150, 69, 69);
+}
+img:hover{
+    opacity:50%;
+    rotate:none;
+}
+
+.big {
+    border-color: green;
+}
+.small{
+    background-color: red;
+}
+.circular{
+    border-radius: 100%;
+}
+
+#heading {
+    color:rgb(173, 110, 110)
+}
